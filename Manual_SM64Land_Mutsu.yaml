@@ -1,8 +1,0 @@
-name: Joueur
-description: Default template created by the Manual Builder tool
-
-game: Manual_SM64Land_Mutsu
-
-Manual_SM64Land_Mutsu:
-    progression_balancing: 50
-    accessibility: items
